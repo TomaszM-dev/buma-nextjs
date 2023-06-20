@@ -12,12 +12,11 @@ module.exports = {
       blue: "#1119D6",
       gold: "#ffd700",
       black: "#000",
+      blackLight: "#606060",
+      blue2: "#050572",
+      grey: "#eeecec",
     },
-    extend: {
-      backgroundImage: {
-        hero_img: "url('/img/utilities/buma-hero.avif')",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
